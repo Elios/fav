@@ -1,0 +1,22 @@
+[
+  {
+    "cost": [30, 46, 70],
+    "device": ["device1", "device2", "device3"],
+    "ratio": [40, 30, 30]
+  },
+  {
+    "cost": [40, 76, 20],
+    "device": ["device1", "device2", "device3"],
+    "ratio": [10, 20, 70]
+  },
+  {
+    "cost": [80, 19, 34],
+    "device": ["device1", "device2", "device3"],
+    "ratio": [50, 30, 20]
+  },
+  {
+    "cost": [40, 80, 36],
+    "device": ["device1", "device2", "device3"],
+    "ratio": [47, 33, 20]
+  }
+]
